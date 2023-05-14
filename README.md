@@ -21,3 +21,7 @@ Download [minikube](https://minikube.sigs.k8s.io/docs/start/) to get started loc
 - `kubectl get service` --> To get all the ports projected from the app
 - `kubectl get node -o wide` --> Get the ip adress of the node, to start using the application
 - `minikube ip` for the application setup locally, it will be the same id to get
+
+
+## Source:
+https://gitlab.com/nanuchi/k8s-in-1-hour/-/blob/master/webapp.yaml
