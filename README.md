@@ -24,4 +24,4 @@ Download [minikube](https://minikube.sigs.k8s.io/docs/start/) to get started loc
 
 
 ## Source:
-https://gitlab.com/nanuchi/k8s-in-1-hour/-/blob/master/webapp.yaml
+[https://gitlab.com/nanuchi/k8s-in-1-hour/-/blob/master](https://gitlab.com/nanuchi/k8s-in-1-hour/-/tree/master)
